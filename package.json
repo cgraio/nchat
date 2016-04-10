@@ -1,0 +1,8 @@
+{
+  "name": "nchat",
+  "version": "0.0.1",
+  "description": "simple chat using node js",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
