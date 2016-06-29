@@ -2,8 +2,14 @@
   "name": "nchat",
   "version": "0.0.1",
   "description": "simple chat using node js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
   }
 }
